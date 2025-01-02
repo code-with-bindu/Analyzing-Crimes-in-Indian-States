@@ -12,6 +12,7 @@ This project provides an in-depth analysis of crime data across various Indian s
 
 This repository contains a comprehensive analysis of crime data across various states in India. The primary objective is to explore crime trends, patterns, and insights that can aid in understanding the socio-economic factors influencing crime rates.
 
+
 ## Repository Structure
 
 - **Indian Crime Analysis.ipynb**: This Jupyter Notebook contains the main analysis, visualizations, and findings regarding crime data in India. The notebook includes:
